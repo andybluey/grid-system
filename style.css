@@ -14,8 +14,8 @@
 }
 
 .container {
-  width: 85%;
-  margin: 0 auto;
+  width: 100%;
+  margin: 0;
 }
 
 .col {
@@ -238,4 +238,24 @@
 
 .pull-left {
   float: left;
+}
+
+/* Additional styling */
+
+/* Text */
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.justify {
+  text-align: justify;
+}
+
+.small-text {
+  font-size: 0.7rem;
 }
